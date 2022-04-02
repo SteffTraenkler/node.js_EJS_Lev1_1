@@ -1,4 +1,4 @@
-'' a little practice from supercode to learn ejs (server creating)
+## A little practice from supercode to learn ejs (server creating)
 
 It should be possible to navigate between those pages
 
